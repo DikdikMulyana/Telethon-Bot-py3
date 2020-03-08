@@ -5,9 +5,9 @@
     ini,ini sangat berarti
 ```
 ***
-##Daftar Isi
+## Daftar Isi
 ***
-* Pendahuluan
+* [Pendahuluan](https://google.com)
 * Dukugan Api Telegram
 * Menginstal
 * Persiapan
