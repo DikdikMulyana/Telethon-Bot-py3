@@ -4,7 +4,7 @@
     yang telah membintangi proyek
     ini,ini sangat berarti
 ```
-***
+
 ## Daftar Isi
 ***
 * [Pendahuluan](https://google.com)
@@ -17,3 +17,8 @@
 * Mendapatkan bantuan
 * Lisensi
 ***
+```python
+def hallo():
+    return 'world'
+hallo()
+```
