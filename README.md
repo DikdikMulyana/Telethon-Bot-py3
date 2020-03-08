@@ -1,6 +1,24 @@
 # Telethon-Bot-py3
-<h1>Bot Telegram</h1>
-    <ol>
-       <li><a href='#'>test</a></li>
-       <li>coba</li>
-    </ol>
+```
+ ⭐️ Terimakasih untuk semua orang
+    yang telah membintangi proyek
+    ini,ini sangat berarti
+```
+==============
+Daftar Isi
+==============
+- `Pendahuluan`_
+- `Dukugan Api Telegram`_
+- `Menginstal`_
+- `Persiapan`_
+  #. `Belajar dengan contoh`_
+
+  #. `Logging`_
+
+  #. `Dokumentasi`_
+
+- `Mendapatkan bantuan`_
+
+- `Berkontribusi`_
+
+- `Lisensi`_
