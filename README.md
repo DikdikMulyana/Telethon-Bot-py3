@@ -18,10 +18,11 @@
 * Lisensi
 ***
 <details>
-<summary>contoh kode python</summary>
+<summary>Bagaimana cara membuatnya?</summary>
+<code style='whit-space:nowrap; color:red; font-family:cursive;>bagaimana cara buatny</code>
+</details>
 ```python
 def hallo():
     return 'world'
 hallo()
 ```
-</details>
