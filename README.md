@@ -19,10 +19,14 @@
 ***
 <details>
 <summary>Bagaimana cara membuatnya?</summary>
-<code style='whit-space:nowrap; color:red; font-family:cursive;>bagaimana cara buatny</code>
+<code style='whit-space:nowrap; color:red; font-family:cursive;'>bagaimana cara buatny</code>
 </details>
+
 ```python
 def hallo():
     return 'world'
 hallo()
 ```
+
+>what?
+>>what?
