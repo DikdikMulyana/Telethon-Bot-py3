@@ -1,9 +1,3 @@
-<style>
-.color{
-    color:yellow;
-    font-family:cursive;
-}
-</style>
 # Telethon-Bot-py3
 ```
  ⭐️ Terimakasih untuk semua orang
@@ -14,7 +8,7 @@
 ## Daftar Isi
 ***
 * [Pendahuluan](https://google.com)
-* Dukugan Api Telegram{.color}
+* Dukugan Api Telegram
 * Menginstal
 * Persiapan
   * Belajar dengan contoh
@@ -23,8 +17,11 @@
 * Mendapatkan bantuan
 * Lisensi
 ***
+<details>
+<summary>contoh kode python</summary>
 ```python
 def hallo():
     return 'world'
 hallo()
 ```
+</details>
